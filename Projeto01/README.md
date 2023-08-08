@@ -1,8 +1,8 @@
 # Projeto 01
 
-Primeiro projeto feito no Explorer da Rocketseat
+Primeiro projeto do Explorer
 
-## 🚀 Tecnologias
+## 🚀 Tecnologiass
 
 - HTML
 - CSS

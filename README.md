@@ -2,7 +2,7 @@
 
 <p align="center">Minha resolução dos projetos e desafios do Explorer da Rocketseat
 <br>
-<a href="https://www.rocketseat.com.br" target='_blank'>Conheça a Rocketseat</a>
+<a href="https://www.rocketseat.com.br" target="_blank">Conheça a Rocketseat</a>
 </p>
 
 <table align="center">
@@ -20,6 +20,10 @@
     <tr>
       <td><a href="Projeto01">Projeto 01</a></td>
       <td align="center"><a href="Projeto01"><img width="300px" src="Projeto01/images/Projeto01.jpg" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="Desafio01">Desafio 01</a></td>
+      <td align="center"><a href="Desafio01"><img width="300px" src="Desafio01/images/Desafio01.jpg" /></a></td>
     </tr>
   </tbody>
 </table>
