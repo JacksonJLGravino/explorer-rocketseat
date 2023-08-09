@@ -29,5 +29,9 @@
       <td><a href="Projeto02">Projeto 02</a></td>
       <td align="center"><a href="Projeto02"><img width="300px" src="Projeto02/images/Projeto02.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="RecriandoLayout02">(Desafio) Recriando Layout 02</a></td>
+      <td align="center"><a href="RecriandoLayout02"><img width="300px" src="RecriandoLayout02/images/Desafio.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
