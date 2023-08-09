@@ -22,8 +22,12 @@
       <td align="center"><a href="Projeto01"><img width="300px" src="Projeto01/images/Projeto01.jpg" /></a></td>
     </tr>
     <tr>
-      <td><a href="Desafio01">Desafio 01</a></td>
-      <td align="center"><a href="Desafio01"><img width="300px" src="Desafio01/images/Desafio01.jpg" /></a></td>
+      <td><a href="RecriandoLayout01">(Desafio) Recriando Layout 01</a></td>
+      <td align="center"><a href="RecriandoLayout01"><img width="300px" src="RecriandoLayout01/images/Desafio01.jpg" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="Projeto02">Projeto 02</a></td>
+      <td align="center"><a href="Projeto02"><img width="300px" src="Projeto02/images/Projeto02.jpg" /></a></td>
     </tr>
   </tbody>
 </table>

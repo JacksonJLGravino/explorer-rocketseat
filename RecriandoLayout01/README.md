@@ -1,6 +1,6 @@
-# Desafio 01
+# Recriando Layout 01
 
-Primeiro desafio do Explorer
+Primeiro desafio do Explorer - Recriando Layout
 
 ## 🚀 Tecnologias
 
