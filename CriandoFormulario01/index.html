@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&family=Staatliches&display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulário Mentoria</title>
+  </head>
+  <body>
+    <div class="page">
+      <header>
+        <h1>Mentoria</h1>
+        <p>Preencha o formulário abaixo para agendar a sua mentoria</p>
+      </header>
+      <form id="form">
+        <fieldset>
+          <div class="fieldset-wrapper">
+            <legend>Informações pessoais</legend>
+            <div class="col-name">
+              <div class="input-wrapper">
+                <label for="envent-nome">Nome</label>
+                <input type="text" id="envent-nome" required />
+              </div>
+
+              <div class="input-wrapper">
+                <label for="envent-sobrenome">Sobrenome</label>
+                <input type="text" id="envent-sobrenome" required />
+              </div>
+            </div>
+
+            <div class="input-wrapper">
+              <label for="envent-email">
+                Email
+                <span>(digite um email válido)</span>
+              </label>
+              <input type="email" id="envent-email" required />
+            </div>
+
+            <div class="input-wrapper">
+              <label for="envent-password">
+                Senha
+                <span>(mínimo de 6 caracteres)</span>
+              </label>
+              <input
+                type="password"
+                id="envent-password"
+                required
+                minlength="6" />
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <div class="fieldset-wrapper">
+            <legend>Informações do mentor</legend>
+
+            <div class="input-wrapper">
+              <label for="envent-mentor">
+                Nome do seu mentor
+                <span>(só o primeiro nome)</span>
+              </label>
+              <input type="text" id="envent-mentor" required />
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <div class="fieldset-wrapper">
+            <legend>Seus horários disponíveis</legend>
+
+            <div class="col-mentoria">
+              <h2>Primeira mentoria</h2>
+              <div class="col-data">
+                <div class="input-wrapper">
+                  <label for="envent-data">
+                    Data
+                    <span>(DD/MM/AAAA)</span>
+                  </label>
+                  <input type="date" id="envent-data" required />
+                </div>
+
+                <div class="horario">
+                  <div class="input-wrapper">
+                    <label for="envent-inicio">Das</label>
+                    <input type="time" id="envent-inicio" required />
+                  </div>
+
+                  <div class="input-wrapper">
+                    <label for="envent-fim">Até</label>
+                    <input type="time" id="envent-fim" required />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-mentoria">
+              <h2>Segunda mentoria</h2>
+              <div class="col-data">
+                <div class="input-wrapper">
+                  <label for="envent-data2">
+                    Data
+                    <span>(DD/MM/AAAA)</span>
+                  </label>
+                  <input type="date" id="envent-data2" />
+                </div>
+
+                <div class="horario">
+                  <div class="input-wrapper">
+                    <label for="envent-inicio2">Das</label>
+                    <input type="time" id="envent-inicio2" />
+                  </div>
+
+                  <div class="input-wrapper">
+                    <label for="envent-fim2">Até</label>
+                    <input type="time" id="envent-fim2" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+      <footer>
+        <input form="form" class="button" type="submit" value="Salvar" />
+      </footer>
+    </div>
+  </body>
+</html>
