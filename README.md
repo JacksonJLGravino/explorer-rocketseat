@@ -45,5 +45,9 @@
       <td><a href="Projeto04">Projeto 04</a></td>
       <td align="center"><a href="Projeto04"><img width="250px" src="Projeto04/images/Projeto.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="Cheesecake">Cheesecake</a></td>
+      <td align="center"><a href="Cheesecake"><img width="250px" src="Cheesecake/images/projeto.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
