@@ -53,5 +53,9 @@
       <td><a href="Galaxies">Galaxies</a></td>
       <td align="center"><a href="Galaxies"><img width="250px" src="Galaxies/images/projeto.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="Fotoblog">Fotoblog</a></td>
+      <td align="center"><a href="Fotoblog"><img width="250px" src="Fotoblog/images/projeto.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
