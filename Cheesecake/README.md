@@ -1,6 +1,6 @@
 # Cheesecake
 
-Projeto do Explorer - Cheesecake Mobile First
+Projeto do Explorer - Cheesecake | Mobile First
 
 ## 🚀 Tecnologiass
 

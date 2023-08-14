@@ -49,5 +49,9 @@
       <td><a href="Cheesecake">Cheesecake</a></td>
       <td align="center"><a href="Cheesecake"><img width="250px" src="Cheesecake/images/projeto.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="Galaxies">Galaxies</a></td>
+      <td align="center"><a href="Galaxies"><img width="250px" src="Galaxies/images/projeto.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
