@@ -1,6 +1,6 @@
-# Criando Formulario 01
+# Criando Formulário 01
 
-Desafio do Explorer - Criando Formulario 01
+Desafio do Explorer - Criando Formulário 01
 
 ## 🚀 Tecnologias
 

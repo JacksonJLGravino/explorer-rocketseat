@@ -38,7 +38,7 @@
       <td align="center"><a href="Projeto03"><img width="250px" src="Projeto03/images/Projeto03.jpg" /></a></td>
     </tr>
     <tr>
-      <td><a href="CriandoFormulario01">(Desafio) Criando Formulario 01</a></td>
+      <td><a href="CriandoFormulario01">(Desafio) Criando Formulário 01</a></td>
       <td align="center"><a href="CriandoFormulario01"><img width="250px" src="CriandoFormulario01/images/Desafio.jpg" /></a></td>
     </tr>
     <tr>
@@ -56,6 +56,10 @@
     <tr>
       <td><a href="Fotoblog">Fotoblog</a></td>
       <td align="center"><a href="Fotoblog"><img width="250px" src="Fotoblog/images/projeto.jpg" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="CriandoFormulario02">(Desafio) Criando Formulário 02</a></td>
+      <td align="center"><a href="CriandoFormulario02"><img width="250px" src="CriandoFormulario02/images/desafioAvancado.jpg" /></a></td>
     </tr>
   </tbody>
 </table>
