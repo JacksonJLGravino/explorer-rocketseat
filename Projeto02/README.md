@@ -2,7 +2,7 @@
 
 Segundo projeto do Explorer
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

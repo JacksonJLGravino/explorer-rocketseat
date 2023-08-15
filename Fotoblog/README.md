@@ -2,7 +2,7 @@
 
 Projeto do Explorer - Fotoblog
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

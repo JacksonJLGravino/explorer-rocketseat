@@ -2,7 +2,7 @@
 
 Quarto projeto do Explorer - Responsividade
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

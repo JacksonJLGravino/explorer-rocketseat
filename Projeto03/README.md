@@ -2,7 +2,7 @@
 
 Terceiro projeto do Explorer - Formulário
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

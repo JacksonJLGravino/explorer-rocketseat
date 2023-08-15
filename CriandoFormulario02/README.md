@@ -2,7 +2,7 @@
 
 Desafio do Explorer - Criando Formulário 02
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

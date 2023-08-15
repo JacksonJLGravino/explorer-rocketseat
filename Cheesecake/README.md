@@ -2,7 +2,7 @@
 
 Projeto do Explorer - Cheesecake | Mobile First
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

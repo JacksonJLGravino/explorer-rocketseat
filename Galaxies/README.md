@@ -2,7 +2,7 @@
 
 Projeto do Explorer - Galaxies | Grid
 
-## 🚀 Tecnologiass
+## 🚀 Tecnologias
 
 - HTML
 - CSS

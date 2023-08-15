@@ -61,5 +61,9 @@
       <td><a href="CriandoFormulario02">(Desafio) Criando Formulário 02</a></td>
       <td align="center"><a href="CriandoFormulario02"><img width="250px" src="CriandoFormulario02/images/desafioAvancado.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="BlogDeGatos">(Desafio) Blog de Gatos</a></td>
+      <td align="center"><a href="BlogDeGatos"><img width="250px" src="BlogDeGatos/images/desafio.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
