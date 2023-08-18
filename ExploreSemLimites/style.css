@@ -1,0 +1,266 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+  --base-font: "Mulish", sans-serif;
+  --white: #ffffff;
+  --light-gray: #f9f4fb;
+  --accent-color: #b52184;
+  --text-base-color: #312d64;
+  --gradient-background: linear-gradient(96.21deg, #343193 0%, #302c63 99.68%);
+}
+
+body {
+  font-family: var(--base-font);
+  background: var(--light-gray);
+}
+
+header {
+  background: var(--light-gray);
+}
+
+#hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+  padding-inline: 3.2rem;
+  margin-bottom: 9.3rem;
+}
+
+#hero .astronaut img {
+  max-width: 100%;
+  background-size: cover;
+}
+
+.hero-text {
+  text-align: center;
+}
+
+.hero-text h1 {
+  color: var(--accent-color);
+  font-size: 3.2rem;
+  font-weight: 900;
+}
+
+.hero-text p {
+  margin-top: 0.5rem;
+  color: var(--text-base-color);
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.hero-text a {
+  text-decoration: none;
+  border: 4px solid var(--accent-color);
+  padding: 3rem 1.4rem;
+  display: inline-block;
+  margin-top: 3.5rem;
+  border-radius: 3.5rem;
+}
+
+.cards {
+  background: var(--gradient-background);
+}
+
+.cards > div {
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  padding-inline: 3.2rem;
+  padding-block: 5.2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background: var(--white);
+  border-radius: 2rem;
+  padding: 2.6rem;
+  width: 100%;
+  max-width: 35.2rem;
+}
+
+.card h3 {
+  color: var(--accent-color);
+  font-size: 3rem;
+  font-weight: 900;
+  margin-top: 3.2rem;
+}
+
+.card p {
+  color: var(--text-base-color);
+  font-size: 1.6rem;
+  font-weight: 600;
+  max-width: 26.6rem;
+  margin-top: 2rem;
+}
+
+.form > div {
+  margin-inline: auto;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  margin-inline: 3.2rem;
+  padding-block: 7.8rem 6.5rem;
+  width: 100%;
+  max-width: 35.2rem;
+}
+
+.form h2 {
+  color: var(--accent-color);
+  font-size: 3.2rem;
+  font-weight: 900;
+}
+
+fieldset {
+  margin-top: 4.2rem;
+  border: none;
+}
+
+.input-wrapper {
+  width: 100%;
+}
+
+.input-wrapper input,
+.input-wrapper textarea {
+  width: 100%;
+  border: 0.15rem solid var(--text-base-color);
+  border-radius: 1.6rem;
+  color: var(--text-base-color);
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 2.4rem;
+  background: var(--light-gray);
+}
+
+.input-wrapper input {
+  padding: 1.6rem 1.6rem 1.6rem 5rem;
+}
+
+.input-wrapper textarea {
+  padding: 1.6rem;
+  resize: none;
+}
+
+form textarea {
+  height: 12.6rem;
+}
+
+form input::placeholder,
+form textarea::placeholder {
+  font-family: var(--base-font);
+  color: var(--text-base-color);
+  font-weight: 600;
+  font-size: 1.6rem;
+}
+
+form button {
+  background: var(--gradient-background);
+  font-family: var(--base-font);
+  color: var(--white);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  padding: 1rem 1.6rem;
+  border-radius: 1.6rem;
+  cursor: pointer;
+  transition: filter 200ms;
+  border: none;
+}
+
+form button:hover {
+  filter: brightness(0.9);
+}
+
+#name {
+  background: url(./images/person.svg) no-repeat scroll 1.4rem 1.2rem;
+}
+
+#email {
+  background: url(./images/at.svg) no-repeat scroll 1.4rem 1.2rem;
+}
+
+footer {
+  background: linear-gradient(134deg, #343193 0%, #302c63 100%);
+}
+
+footer p {
+  text-align: center;
+  padding-block: 3.2rem;
+  color: var(--white);
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+@media (min-width: 1024px) {
+  #hero {
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 2.8rem;
+    justify-content: center;
+    margin-bottom: 10.4rem;
+    position: relative;
+  }
+
+  #hero .astronaut img {
+    width: 72rem;
+  }
+
+  .hero-text {
+    text-align: left;
+  }
+
+  .hero-text h1 {
+    font-size: 5.2rem;
+  }
+
+  .hero-text p {
+    margin-top: 0.8rem;
+    font-size: 3.2rem;
+  }
+
+  .hero-text a {
+    position: absolute;
+    margin-top: 0;
+    bottom: 0;
+  }
+
+  .cards > div {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6rem;
+    max-width: 130.7rem;
+  }
+
+  .form {
+    background: url("/images/fundo.png");
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+
+  .form > div {
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 130.7rem;
+  }
+
+  form {
+    max-width: 59.2rem;
+  }
+
+  .stars {
+    flex: 1;
+  }
+}

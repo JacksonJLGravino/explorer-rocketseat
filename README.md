@@ -65,5 +65,9 @@
       <td><a href="BlogDeGatos">(Desafio) Blog de Gatos</a></td>
       <td align="center"><a href="BlogDeGatos"><img width="250px" src="BlogDeGatos/images/desafio.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="ExploreSemLimites">(Desafio) Explore sem limites</a></td>
+      <td align="center"><a href="ExploreSemLimites"><img width="250px" src="ExploreSemLimites/images/Capa.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
