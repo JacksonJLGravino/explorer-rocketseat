@@ -69,5 +69,9 @@
       <td><a href="ExploreSemLimites">(Desafio) Explore sem limites</a></td>
       <td align="center"><a href="ExploreSemLimites"><img width="250px" src="ExploreSemLimites/images/Capa.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="JogoAdvinhacao">Jogo da Advinhação</a></td>
+      <td align="center"><a href="JogoAdvinhacao"><img width="250px" src="JogoAdvinhacao/images/app.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
