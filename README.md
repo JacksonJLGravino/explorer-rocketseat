@@ -73,5 +73,9 @@
       <td><a href="JogoAdvinhacao">Jogo da Advinhação</a></td>
       <td align="center"><a href="JogoAdvinhacao"><img width="250px" src="JogoAdvinhacao/images/app.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="BiscoitoDaSorte">(Desafio) Biscoito da Sorte</a></td>
+      <td align="center"><a href="BiscoitoDaSorte"><img width="250px" src="BiscoitoDaSorte/images/Capa.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
