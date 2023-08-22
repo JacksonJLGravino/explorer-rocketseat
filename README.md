@@ -77,5 +77,9 @@
       <td><a href="BiscoitoDaSorte">(Desafio) Biscoito da Sorte</a></td>
       <td align="center"><a href="BiscoitoDaSorte"><img width="250px" src="BiscoitoDaSorte/images/Capa.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="IMC">Cálculo IMC</a></td>
+      <td align="center"><a href="IMC"><img width="250px" src="IMC/images/page.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
