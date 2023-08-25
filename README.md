@@ -85,5 +85,9 @@
       <td><a href="FocusTimer">Focus Timer V2</a></td>
       <td align="center"><a href="FocusTimer"><img width="250px" src="FocusTimer/images/Cover.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="DesafioFocusTimer">(Desafio) Focus Timer</a></td>
+      <td align="center"><a href="DesafioFocusTimer"><img width="250px" src="DesafioFocusTimer/assets/FocusTimer.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>

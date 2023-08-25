@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Temporizador estilo pomodoro" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+      rel="stylesheet" />
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <script type="module" src="./src/main.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Desafio Focus Timer</title>
+  </head>
+  <body>
+    <main>
+      <section class="timer-controler">
+        <div id="timer">
+          <span id="minutes">25</span>
+          <span>:</span>
+          <span id="seconds">00</span>
+        </div>
+        <div id="controls" class="running">
+          <button data-action="toggleRunning" class="ph ph-play-circle">
+            <span class="sr-only">Play</span>
+          </button>
+          <button data-action="toggleRunning" class="ph ph-pause-circle">
+            <span class="sr-only">Pause</span>
+          </button>
+          <button data-action="reset" class="ph ph-stop-circle secondary">
+            <span class="sr-only">Reset</span>
+          </button>
+          <button data-action="increaseTime" class="ph ph-plus-circle">
+            <span class="sr-only">Plus</span>
+          </button>
+          <button data-action="decreaseTime" class="ph ph-minus-circle">
+            <span class="sr-only">Minus</span>
+          </button>
+        </div>
+      </section>
+      <section class="sounds">
+        <button id="floresta" class="ph ph-tree">
+          <span class="sr-only">tree</span>
+        </button>
+
+        <button id="chuva" class="ph ph-cloud-rain">
+          <span class="sr-only">rain</span>
+        </button>
+
+        <button id="cafeteria" class="ph ph-storefront">
+          <span class="sr-only">shop</span>
+        </button>
+
+        <button id="lareira" class="ph ph-flame">
+          <span class="sr-only">fire</span>
+        </button>
+      </section>
+    </main>
+  </body>
+</html>

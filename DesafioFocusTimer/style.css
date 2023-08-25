@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --bg: hsl(0, 0%, 100%);
+  --text: hsl(240, 6%, 21%);
+  --btn-bg: hsl(240, 9%, 89%);
+  --btn-bg-selected: hsl(194, 97%, 31%);
+}
+
+body {
+  font-size: 1.6rem;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 19.2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.sr-only {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  overflow: hidden;
+  margin: -1px;
+  padding: 0px;
+  border: 0;
+  appearance: none;
+}
+
+.timer-controler {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4.8rem;
+}
+
+#timer span {
+  color: var(--text);
+  font-weight: 500;
+  font-size: 12.6rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+#controls {
+  display: flex;
+  gap: 4rem;
+}
+
+#controls button {
+  font-size: 4.8rem;
+  color: var(--text);
+  background: var(--bg);
+  cursor: pointer;
+  border: none;
+}
+
+.sounds {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.2rem;
+  max-width: 30.8rem;
+}
+
+.sounds button {
+  color: var(--text);
+  font-size: 5.6rem;
+  border: none;
+  border-radius: 2.4rem;
+  width: 13.8rem;
+  height: 15.2rem;
+  background: var(--btn-bg);
+  cursor: pointer;
+}
+
+.sounds button:not(.select):hover {
+  filter: brightness(0.9);
+}
+.sounds button.select {
+  background: var(--btn-bg-selected);
+  color: var(--bg);
+}
+
+#controls.running .ph-pause-circle,
+#controls:not(.running) .ph-play-circle {
+  display: none;
+}
