@@ -89,5 +89,9 @@
       <td><a href="DesafioFocusTimer">(Desafio) Focus Timer</a></td>
       <td align="center"><a href="DesafioFocusTimer"><img width="250px" src="DesafioFocusTimer/assets/FocusTimer.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="SPAUniverse">(Desafio) SPA Universe</a></td>
+      <td align="center"><a href="SPAUniverse"><img width="250px" src="SPAUniverse/images/Capa.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
