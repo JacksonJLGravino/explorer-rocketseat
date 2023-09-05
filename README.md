@@ -93,5 +93,9 @@
       <td><a href="SPAUniverse">(Desafio) SPA Universe</a></td>
       <td align="center"><a href="SPAUniverse"><img width="250px" src="SPAUniverse/images/Capa.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="GithubFavorites">Github Favorites</a></td>
+      <td align="center"><a href="GithubFavorites"><img width="250px" src="GithubFavorites/page.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
