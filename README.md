@@ -97,5 +97,9 @@
       <td><a href="GithubFavorites">Github Favorites</a></td>
       <td align="center"><a href="GithubFavorites"><img width="250px" src="GithubFavorites/page.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="GitFav">GitFav</a></td>
+      <td align="center"><a href="GitFav"><img width="250px" src="GitFav/images/Capa.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
