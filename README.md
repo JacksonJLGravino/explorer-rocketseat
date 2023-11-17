@@ -101,5 +101,9 @@
       <td><a href="GitFav">GitFav</a></td>
       <td align="center"><a href="GitFav"><img width="250px" src="GitFav/images/Capa.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="ExplorerStock">Explorer Stock</a></td>
+      <td align="center"><a href="ExplorerStock"><img width="250px" src="ExplorerStock/capa.jpg" /></a></td>
+    </tr>
   </tbody>
 </table>
