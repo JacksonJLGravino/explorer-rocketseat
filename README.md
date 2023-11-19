@@ -105,5 +105,9 @@
       <td><a href="ExplorerStock">Explorer Stock</a></td>
       <td align="center"><a href="ExplorerStock"><img width="250px" src="ExplorerStock/capa.jpg" /></a></td>
     </tr>
+    <tr>
+      <td><a href="ExplorerTasks">Explorer Tasks</a></td>
+      <td align="center"><a href="ExplorerTasks"><img width="250px" src="ExplorerTasks/preview.png" /></a></td>
+    </tr>
   </tbody>
 </table>
